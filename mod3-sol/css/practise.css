@@ -1,0 +1,41 @@
+body{
+	background-color: #61122f;
+}
+#nav{
+	background-color: #f6b319;
+	border-radius: 0px;
+	border:none;
+}
+.navbar-header{
+	padding:10px 10px 10px 0px;
+
+}
+.navbar-brand {
+  padding-left: 35px;
+  padding-top:0px;
+}
+.navbar-brand a:hover,.navbar-brand a:focus{
+	text-decoration: none;
+
+}
+.navbar-brand a{
+	text-shadow: 1px 1px 1px #222;
+	color:#557c3e;
+	text-transform:uppercase;
+	font-family:'Lora', serif;
+
+}
+.navbar-brand img{
+	float:left;
+	width:30px;
+	height:30px;
+}
+.navbar-brand span{
+	padding-left:10px;
+	margin-top:10px;
+	text-transform: uppercase;
+	color:black;
+	font-family:'Lora', serif;
+	font-size:15px;
+
+}
